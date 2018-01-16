@@ -15,7 +15,7 @@ int main(int argc, char const *argv[]) {
       sigNumero = primerNum + segundoNum;
       primerNum = segundoNum;
       primerNum = segundoNum;
-      segundoNum = sigNumero;
+      segundoNum = sigNumer;
     }
     printf("%d\n", sigNumero);
   }
